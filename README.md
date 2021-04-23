@@ -20,7 +20,7 @@ El niño selecciona una multiplicación y debe de recolectar los número que com
 La aplicación no contiene ningun tipo de lenguaje ni vocabulario dañino o inapropiado para los niños. Esta a aplicación no muestra ninguna imagen o texto violento o agresivo para los niños, tampoco muestra ningún tipo de símbolo inapropiado para los niños. La aplicación solo maneja palabras amables para todos los niños y sonidos divertidos.
 
 ## Recopilación de datos
-Por seguridad para los niños, la aplicacion **Matematicas primaria** aplicación no recopila datos de Esta aplicación no recopila ni envía datos a terceros ni comparte ningun tipo de información de los niños a terceros. Esta aplicación no usa en nignún sentido ni pide datos de ningún tipo de los usuarios que la descarguen e instalen en su dispositivo.
+Por seguridad para los niños, la aplicacion **Matematicas primaria** aplicación no envìa ni comparte datos a terceros ni comparte ningun tipo de información de los niños a terceros. Esta aplicación no usa en nignún sentido ni pide datos de ningún tipo de los usuarios que la descarguen e instalen en su dispositivo.
 
 En esta app tampoco se anuncian ningún tipo de producto o servicio. La aplicación garantiza solamente un ambiente educativo y de aprendizaje para los niños que usen la aplicación.
 
